@@ -1,1 +1,4 @@
-# s-mobile
+# s-mobile (HTML5 + CSS3 + SASS + BOOTSTRAP 4)
+
+Website za prodavnicu i servis mobilnih telefona i pratece opreme.
+U skorije vreme implementirati i ceo sistem porucivanja i placanja karticom i paypalom. 
