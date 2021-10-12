@@ -1,0 +1,41 @@
+@import 'media-queries';
+
+.social a { 
+    font-size: 4.5em;
+    padding: 3rem;
+
+    @include large {
+        font-size: 4em;
+        padding: 2rem;
+    }
+
+    @include medium {
+        font-size: 2.5em;
+        padding: 1.2rem;
+    }
+
+    @include small {
+        font-size: 2em;
+        padding: .7rem;
+    }
+}
+  
+.fa-facebook {
+    color: #3b5998;
+}
+  
+.fa-twitter {
+    color: #00aced;
+}
+  
+.fa-google-plus-g {
+    color: #dd4b39;
+}
+
+.fa-instagram {
+    color: #517fa8;
+}
+
+.fa-facebook:hover, .fa-twitter:hover, .fa-google-plus-g:hover, .fa-instagram:hover {
+    color: #d5d5d5;
+}

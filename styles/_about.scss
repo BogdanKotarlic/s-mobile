@@ -1,0 +1,19 @@
+@import 'colors';
+
+.welcome {
+    width: 75%;
+    margin: 0 auto;
+    padding-top: 2rem;
+
+    hr {
+        border-top: 2px solid $light-grey;
+        width: 95%;
+        margin-top: .3rem;
+        margin-bottom: 1rem;
+    }
+}
+  
+.fa-mobile-alt, .fa-tools, .fa-shopping-cart {
+    font-size: 4em;
+    margin: 1rem;
+}
