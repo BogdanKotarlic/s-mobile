@@ -7,7 +7,7 @@ const App = () => {
             <nav class="navbar navbar-expand-md navbar-light bg-light sticky-top">
                 <div class="container-fluid">
                     <a class="navbar-brand" href="#">
-                        <img src="images/logo.png" alt="logo" />
+                        <img src="/images/logo.png" alt="logo" />
                     </a>
                     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive">
                         <span class="navbar-toggler-icon"></span>
@@ -42,7 +42,7 @@ const App = () => {
                     </ul>
                     <div class="carousel-inner">
                         <div class="carousel-item active">
-                            <img src="images/background.png" alt="slider img" />
+                            <img src="/images/background.png" alt="slider img" />
                             <div class="carousel-caption">
                                 <h1 class="display-2">S-MOBILE</h1>
                                 <h3>Dobrodošli na naš web sajt!</h3>
@@ -50,7 +50,7 @@ const App = () => {
                             </div>
                         </div>
                         <div class="carousel-item">
-                            <img src="images/background2.png" alt="slider img2" />
+                            <img src="/images/background2.png" alt="slider img2" />
                             <div class="carousel-caption">
                                 <h1 class="display-2">S-MOBILE</h1>
                                 <h3>Dobrodošli na naš web sajt!</h3>
@@ -58,7 +58,7 @@ const App = () => {
                             </div>
                         </div>
                         <div class="carousel-item">
-                            <img src="images/background3.png" alt="slider img3" />
+                            <img src="/images/background3.png" alt="slider img3" />
                             <div class="carousel-caption">
                                 <h1 class="display-2">S-MOBILE</h1>
                                 <h3>Dobrodošli na naš web sajt!</h3>
@@ -79,7 +79,7 @@ const App = () => {
                         <button class="btn btn-primary">Saznaj više</button>
                     </div>
                     <div class="col-lg-6">
-                        <img src="images/desk.png" class="img-fluid" alt="desk" />
+                        <img src="/images/desk.png" class="img-fluid" alt="desk" />
                     </div>
                 </div>
             </div>
@@ -127,7 +127,7 @@ const App = () => {
                 <div class="row padding">
                     <div class="col-md-4">
                         <div class="card">
-                            <img class="card-img-top" src="images/team1.png" alt="team member 1" />
+                            <img class="card-img-top" src="/images/team1.png" alt="team member 1" />
                             <div class="card-body">
                                 <h4 class="card-title">Ime Prezime</h4>
                                 <p class="card-text">CEO</p>
@@ -137,7 +137,7 @@ const App = () => {
                     </div>
                     <div class="col-md-4">
                         <div class="card">
-                            <img class="card-img-top" src="images/team2.png" alt="team member 2" />
+                            <img class="card-img-top" src="/images/team2.png" alt="team member 2" />
                             <div class="card-body">
                                 <h4 class="card-title">Ime Prezime</h4>
                                 <p class="card-text">Savetnik</p>
@@ -147,7 +147,7 @@ const App = () => {
                     </div>
                     <div class="col-md-4">
                         <div class="card">
-                            <img class="card-img-top" src="images/team3.png" alt="team member 3" />
+                            <img class="card-img-top" src="/images/team3.png" alt="team member 3" />
                             <div class="card-body">
                                 <h4 class="card-title">Ime Prezime</h4>
                                 <p class="card-text">Serviser</p>
@@ -166,7 +166,7 @@ const App = () => {
                         <br />
                     </div>
                     <div class="col-lg-6">
-                        <img src="images/quote.png" class="img-fluid" alt="desk" />
+                        <img src="/images/quote.png" class="img-fluid" alt="desk" />
                     </div>
                 </div>
                 <hr class="my-4" />
@@ -188,7 +188,7 @@ const App = () => {
                 <div class="container-fluid padding">
                     <div class="row text-center">
                         <div class="col-md-4">
-                            <img src="images/logowhite.png" alt="logo" />
+                            <img src="/images/logowhite.png" alt="logo" />
                             <hr class="light" />
                             <p>+381 60 000 000</p>
                             <p>email@gmail.com</p>
